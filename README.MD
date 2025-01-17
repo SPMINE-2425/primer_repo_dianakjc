@@ -25,4 +25,4 @@ En esta carpeta encontrarás todos los **cuadernos** (notebooks) utilizados para
 - Se recomienda seguir un flujo lógico al trabajar con los cuadernos, comenzando por la exploración de datos y avanzando hacia el análisis y la modelización.
 - Cada cuaderno debe ser autoexplicativo y contener suficiente documentación y comentarios para que otros puedan entender y reproducir los análisis.
 
-KATHE
+KATHE 2
